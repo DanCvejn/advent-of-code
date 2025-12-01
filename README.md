@@ -6,5 +6,5 @@ Possible solutions to the Advent of Code challenges
 Propably not all done, don't have time.
 
 ## Years
-[2024 TypeScript with Bun.sh](https://github.com/dancvejn/advent-of-code/tree/main/2024)
-[2025 PHP](https://github.com/dancvejn/advent-of-code/tree/main/2025)
+- [2024 TypeScript with Bun.sh](https://github.com/dancvejn/advent-of-code/tree/main/2024)
+- [2025 PHP](https://github.com/dancvejn/advent-of-code/tree/main/2025)
