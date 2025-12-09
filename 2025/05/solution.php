@@ -5,7 +5,6 @@ $input = file_get_contents('input.txt');
 function partOne(string $input): int {
   $sum = 0;
   [$freshRanges, $availableIngs] = explode("\n\n", $input);
-  $freshIngsRanges = [];
   foreach(explode("\n", $availableIngs) as $ingredient) {
     $betweenFresh = false;
     foreach(explode("\n", $freshRanges) as $range) {
